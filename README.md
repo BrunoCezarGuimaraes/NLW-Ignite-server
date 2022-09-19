@@ -12,4 +12,4 @@ Esse servidor pega os jogos do banco de dados, serve para ambas as versões mobi
 # Aplicações
 
 - Web: https://github.com/BrunoCezarGuimaraes/NLW-Ignit-web
-- Mobile:? https://github.com/BrunoCezarGuimaraes/NLW-Ignit-mobile
+- Mobile: https://github.com/BrunoCezarGuimaraes/NLW-Ignit-mobile

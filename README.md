@@ -4,7 +4,7 @@ Servidor Back-End para a aplicação do NLW Ignit, onde o objetivo da aplicaçã
 
 Esse servidor pega os jogos do banco de dados, serve para ambas as versões mobile e web.
 
-# Tecnologias usadas:
+# Tecnologias usadas
  - Prisma
  - React
  - SQLite
